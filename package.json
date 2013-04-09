@@ -1,0 +1,41 @@
+{
+  "name": "float-bits",
+  "version": "0.0.0",
+  "description": "Pulls out the bits from floating point numbers",
+  "main": "bits.js",
+  "directories": {
+    "test": "test"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "tap": "~0.4.1"
+  },
+  "scripts": {
+    "test": "tap test/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mikolalysenko/float-bits.git"
+  },
+  "keywords": [
+    "float",
+    "bits",
+    "32-bit",
+    "unsigned",
+    "signed",
+    "integer",
+    "binary",
+    "representation",
+    "union",
+    "pointer",
+    "typed",
+    "array",
+    "C",
+    "bit",
+    "twiddle"
+  ],
+  "author": "Mikola Lysenko",
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "2dfce2821be948cca84c240436896fdef869dbba"
+}
