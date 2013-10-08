@@ -1,6 +1,6 @@
 {
   "name": "float-bits",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Pulls out the bits from floating point numbers",
   "main": "bits.js",
   "directories": {
