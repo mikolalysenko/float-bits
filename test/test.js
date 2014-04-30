@@ -1,6 +1,6 @@
 var fb = require("../bits")
 
-require("tap").test("float-bits", function(t) {
+require("tape")("float-bits", function(t) {
 
   t.equals(fb(1.0), 1065353216)
   t.equals(fb.toInt(-1.0), -1082130432)

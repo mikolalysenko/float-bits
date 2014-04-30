@@ -1,6 +1,6 @@
 {
   "name": "float-bits",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Pulls out the bits from floating point numbers",
   "main": "bits.js",
   "directories": {
@@ -8,10 +8,10 @@
   },
   "dependencies": {},
   "devDependencies": {
-    "tap": "~0.4.1"
+    "tape": "^2.12.3"
   },
   "scripts": {
-    "test": "tap test/*.js"
+    "test": "tape test/*.js"
   },
   "repository": {
     "type": "git",
